@@ -1,0 +1,20 @@
+{
+  "name": "agilnotest",
+  "version": "1.0.0",
+  "description": "test api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josip",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.0"
+  }
+}
